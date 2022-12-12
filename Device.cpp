@@ -1,6 +1,8 @@
 #include <iostream>
 #include "Device.h"
 
+
+// вносим изменения в файл для работы с Git - просто пробуем первый раз изменить файл
 	Device::Device(int battaryLife) : _battaryLife(battaryLife)
 	{
 
